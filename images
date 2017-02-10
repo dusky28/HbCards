@@ -1,4 +1,0 @@
-
-git add /Users/Terry/Downloads/the dog.jpg 
-git commit -t "the dog"
-git push origin master
